@@ -4,11 +4,11 @@
 
 ## Tech Stack
 
-    - Javascript
-    - NodeJS
-    - NextJS
-    - ReactJS
-    - Tailwindcss
+- Javascript
+- NodeJS
+- NextJS
+- ReactJS
+- Tailwindcss
 
 ## Running the app
 
